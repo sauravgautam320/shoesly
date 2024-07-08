@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079001832756",
+    "project_id": "priority-shoesly",
+    "storage_bucket": "priority-shoesly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079001832756:android:f89477b1fc1746dbb11961",
+        "android_client_info": {
+          "package_name": "com.saurav.shoesly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOsjvMykiMyHMqLenxrQ7cNtSsWACZRR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
